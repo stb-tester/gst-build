@@ -33,3 +33,6 @@
 	url = https://github.com/stb-tester/libnice.git
 	branch = stbt1
 	shallow = true
+[submodule "subprojects/gl-headers"]
+	path = subprojects/gl-headers
+	url = https://gitlab.freedesktop.org/gstreamer/meson-ports/gl-headers.git
